@@ -1,3 +1,11 @@
+# React Vending Machine
+### Created this vending machine using the React framework.
+### The main purpose of this project was to help strengthen my understanding of Redux and Flow architecture.
+### Redux was used throughout this project to provide data to each of the components within the application.
+## Packages Used:
+- Bootstrap (used for styling)
+- Reduxjs/toolkit & React Redux (used for updating & sharing app state)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
