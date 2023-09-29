@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Miss Vickie's",
+		"price": 1.25,
+		"quantity": 10,
+		"position": "A1",
+		"image": "https://i5.walmartimages.com/asr/e142a91e-e5b5-4621-8f48-af446ce81519_1.243d16d0bdca2adc2706918e08c9f805.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff"
+	},
+	{
+		"name": "Doritos Cool Ranch",
+		"price": 1.25,
+		"quantity": 10,
+		"position": "A2",
+		"image": "https://i5.walmartimages.com/asr/6af66311-4514-4baa-98d6-1e337da084a3_1.6cd3c960f70ac6e333034a6d50a5956f.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff"
+	},
+	{
+		"name": "Lay's Original",
+		"price": 1.25,
+		"quantity": 10,
+		"position": "A3",
+		"image": "https://i5.walmartimages.com/asr/ea6210c2-db04-44e6-a71d-8c49a0e98987_1.0d4649fac8e298d0723607cb9923d2bd.jpeg"
+	},
+	{
+		"name": "Lay's Barbecue",
+		"price": 1.25,
+		"quantity": 10,
+		"position": "B1",
+		"image": "https://i5.walmartimages.com/asr/2dee281d-8623-470e-bdbf-1e1b865b4257.ebb3a7b657a87a819f7b4918120f8c84.jpeg"
+	},
+	{
+		"name": "Takis Fuego",
+		"price": 1.50,
+		"quantity": 10,
+		"position": "B2",
+		"image": "https://i5.walmartimages.com/asr/a421a0fb-9a40-484d-94f6-bfc677fe61c4.097a2f6ad987122f9a1f11123e1495d2.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff"
+	},
+	{
+		"name": "Cheetos Crunchy",
+		"price": 1.25,
+		"quantity": 10,
+		"position": "B3",
+		"image": "https://th.bing.com/th/id/OIP.sgI588rwA20Gmeoz7rPn6AHaHa?w=199&h=199&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+	},
+	{
+		"name": "Ruffles",
+		"price": 1.50,
+		"quantity": 10,
+		"position": "C1",
+		"image": "https://i5.walmartimages.com/asr/776032dc-41a6-4f6a-8686-a2e4b18ce4e2_2.10b8da421f44d64d170cc32236b456c5.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff"
+	},
+	{
+		"name": "Sun Chips",
+		"price": 1.50,
+		"quantity": 10,
+		"position": "C2",
+		"image": "https://th.bing.com/th/id/R.e1365f5a8424f09a93d8b190deab5e5d?rik=b%2fiZz2j8RH%2bAtQ&pid=ImgRaw&r=0"
+	},
+	{
+		"name": "Snickers",
+		"price": 1.00,
+		"quantity": 10,
+		"position": "C3",
+		"image": "https://i5.walmartimages.com/asr/da50666e-bf3a-47ef-8b62-8461274fa98c_1.63534285bdbe980367b26c7ea6218912.jpeg"
+	},
+	{
+		"name": "Twix",
+		"price": 1.00,
+		"quantity": 10,
+		"position": "D1",
+		"image": "https://th.bing.com/th/id/OIP.RF5gvvBZWhCMcv19cGna2QHaHa?w=202&h=202&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+	},
+	{
+		"name": "Reese's",
+		"price": 1.00,
+		"quantity": 10,
+		"position": "D2",
+		"image": "https://i5.walmartimages.com/asr/890a32f6-f74f-4c2d-b8a5-e07409e90f95_1.0a7d746090b883c62be8ca2da0b3512a.jpeg"
+	},
+	{
+		"name": "Skittles",
+		"price": 1.00,
+		"quantity": 10,
+		"position": "D3",
+		"image": "https://th.bing.com/th/id/OIP.kZWAPlGfyfxIU0fqe12EgAHaHa?pid=ImgDet&rs=1"
+	}
+]
